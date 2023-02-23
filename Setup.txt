@@ -1,0 +1,3 @@
+virtualenv --python C:\Users\jaymr\AppData\Local\Programs\Python\Python310\python.exe venv
+
+.\venv\Scripts\activate
